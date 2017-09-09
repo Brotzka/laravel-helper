@@ -1,6 +1,7 @@
 {
     "name": "brotzka/laravel-helper",
     "description": "A collection of usefull helpers for the Laravel Framework.",
+    "keywords": ["laravel", "helper", "slug"],
     "type": "library",
     "license": "MIT",
     "authors": [
