@@ -1,0 +1,19 @@
+{
+    "name": "brotzka/laravel-helper",
+    "description": "A collection of usefull helpers for the Laravel Framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabian Hagen",
+            "email": "kontakt@fabianhagen.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Brotzka\\LaravelHelper\\": "src"
+        }
+    }
+}
